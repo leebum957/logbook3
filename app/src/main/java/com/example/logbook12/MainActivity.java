@@ -23,8 +23,6 @@ public class MainActivity extends AppCompatActivity {
     Button add_button;
     private EditText add_Url;
 
-    DatabaseHelper dataHelper;
-    ArrayList<String> id, url;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
